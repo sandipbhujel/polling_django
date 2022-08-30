@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-x1&819lrefpjh)fgse3ga@!5z8g5i8k$k759y(!88wmllwqq#y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://pollingdjango.herokuapp.com/']
 
 
 # Application definition
